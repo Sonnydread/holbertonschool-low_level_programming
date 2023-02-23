@@ -1,19 +1,19 @@
 #include <stdio.h>
 
 /**
- * main - Prints el alfabeto
- * Return: Always (Success)
- *
- */
+* main - Prints el alfabeto
+* Return: Always (Success)
+*
+*/
 
 int main(void)
 
 {
-  char c;
+char c;
 
-  for (c = 'a'; c <= 'z'; c++)
-    putchar(c);
-  putchar('\n');
-  return (0);
+for (c = 'a'; c <= 'z'; c++)
+putchar(c);
+putchar('\n');
+return (0);
 
 }
