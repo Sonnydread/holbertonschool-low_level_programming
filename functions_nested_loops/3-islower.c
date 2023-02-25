@@ -2,7 +2,7 @@
 
 /**
  * _islower - En minúsculas
- * Cambia de carater
+ * @c: Cambia de carater
  * Return: 1 para minúscula o 0 para las demás
  */
 
