@@ -1,7 +1,7 @@
 #include "main.h"
 
  /**
-  * Jack_B - Imprime cada minuto
+  * jack_bauer - Imprime cada minuto
   * Return: ...
   */
 
