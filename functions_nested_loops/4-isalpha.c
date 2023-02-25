@@ -2,7 +2,7 @@
 
 /**
  * _isalpha - Imprimir el alfabeto
- * caracter para chequear
+ * @c: Caracter para revisar
  * Return: 1 para el afabeto o 0 para lo demás
  */
 
