@@ -1,13 +1,11 @@
 #include "main.h"
-
 #include <stdio.h>
 
-
 /**
- * print_to_98 - Imprimir los num de n al 98
- * @n: El num que empieza
- * Return: Always 0.
- */
+* print_to_98 - Imprimir los num de n al 98
+* @n: El num que empieza
+* Return: Always 0.
+*/
 
 void print_to_98(int n)
 
@@ -25,7 +23,7 @@ break;
 }
 else
 {
-printf("%d,", n);
+printf("%d, ", n);
 }
 }
 }
@@ -41,7 +39,7 @@ break;
 }
 else
 {
-printf("%d,", n);
+printf("%d, ", n);
 }
 }
 }
