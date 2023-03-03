@@ -1,2 +1,2 @@
 Makefiles
-Follow instructions
+Follows instructions
