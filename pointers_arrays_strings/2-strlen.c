@@ -16,4 +16,4 @@ while (*str++)
 length++;
 return (length);
 
-{
+}
