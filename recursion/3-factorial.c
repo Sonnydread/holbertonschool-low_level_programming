@@ -2,7 +2,7 @@
 
 /**
  * factorial - calcular el fact
- * @s: num a calcular
+ * @n: num a calcular
  * Return: entero
  */
 
