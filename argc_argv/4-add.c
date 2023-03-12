@@ -30,7 +30,7 @@ printf("Error\n");
 return (1);
 }
 }
- 
+
 sum += atoi(e);
 e++;
 }
