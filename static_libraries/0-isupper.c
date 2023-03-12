@@ -4,7 +4,8 @@
 #include <ctype.h>
 #include <string.h>
 
-int putchar(int c)
+int _isupper(int c)
+  
 {
-  return (1);
+  return (0);
 }
