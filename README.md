@@ -1,1 +1,4 @@
-instruccions
+
+instrucciones para preprocessor
+
+
