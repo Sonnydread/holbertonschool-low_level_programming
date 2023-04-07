@@ -3,17 +3,15 @@
 /**
  * free_list - that frees a list_t
  * @head: to be free
+ * Return: void
  */
 
 void free_list(list_t *head)
 
 {
-
-list_t *temp;
-while (head)
-{
-temp = head->next;
+if (!head)
+return;
+free_list(head->next);
+free(head->str);
 free(head);
-head = temp;
-}
 }
