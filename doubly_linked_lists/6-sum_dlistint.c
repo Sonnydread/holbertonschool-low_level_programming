@@ -2,7 +2,7 @@
 
 /**
  * sum_dlistint - suma de data
- * @head: Address 
+ * @head: Address
  * Return: la suma
  */
 
